@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://pastefy.app/0wFc1g6n/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/TYmuKzJ5/raw"))()
 local Settings = {
   JoinTeam = "Pirates"; -- Pirates/Marines
   Translator = true; -- true/false
